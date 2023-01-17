@@ -1,0 +1,12 @@
+.pageHeader {
+    text-align:center;
+}
+
+.fishAndTank {
+   display: flex;
+   flex-direction: row;
+}
+
+.harvLocations {
+    text-align:center;
+}
